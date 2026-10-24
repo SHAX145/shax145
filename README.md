@@ -1,5 +1,16 @@
-# Welcome to GitHub Desktop!
+# Привет, я [SHAX]! 👋
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+## 🚀 Обо мне
+Я только начинаю свой путь в IT и сейчас активно осваиваю **GitHub** и его возможности. Этот профиль — моя стартовая площадка!
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+- 🎯 **Моя цель:** Понять, какое направление в разработке мне ближе, и выбрать первый язык программирования.
+- 📚 **Сейчас я изучаю:** Функционал GitHub, работу с репозиториями и основы веб-технологий.
+- 💼 **В планах:** Создать здесь свое первое портфолио проектов.
+
+## 🛠️ Мои инструменты (которые я планирую выучить)
+- Вёрстка: `HTML5` / `CSS3`
+- Инструменты: `Git` / `GitHub`
+
+## 💬 Как со мной связаться
+- [Мой Telegram](https://t.me/shax145)
+- Почта: `yorov_2000@mail.ru`
